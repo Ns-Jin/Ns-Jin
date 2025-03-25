@@ -1,2 +1,2 @@
 <!-- Heading -->
-# Hi, I'm Ns-Jin!
+# Hi, I'm sangjin
